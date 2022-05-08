@@ -1,0 +1,19 @@
+{
+  "name": "launchxtrellojs",
+  "version": "1.0.0",
+  "description": "Proyecto realizado en practicas de LaunchX en MissionNodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAngelFnz/LaunchXTrelloJS.git"
+  },
+  "author": "Luís Ángel Fernández Vásquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisAngelFnz/LaunchXTrelloJS/issues"
+  },
+  "homepage": "https://github.com/LuisAngelFnz/LaunchXTrelloJS#readme"
+}
